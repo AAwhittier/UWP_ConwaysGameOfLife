@@ -10,7 +10,7 @@ This implementation assigns a random game board for the initial state and then
 follows the rules as Conway laid them out. I wrote this to begin learning the UWP
 platform and the tools associated with it.
 
-* [Software Demo Video](http://youtube.link.goes.here)
+* [Software Demo Video](https://youtu.be/tn_l5ZCN8GY)
 
 # Development Environment
 
